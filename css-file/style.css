@@ -103,7 +103,8 @@ nav ul li a {
 .banner-section button a i {
     margin-right: 8px;
 }
-.content .em-btn{
+
+.content .em-btn {
     font-size: 20px;
     font-weight: 700;
     color: #FD6E0A;
@@ -111,4 +112,52 @@ nav ul li a {
     border: 1px solid #FD6E0A;
     border-radius: 5px;
     margin-left: 30px;
+}
+
+/* about-me-section */
+main {
+    margin: 0px 210px;
+}
+
+.about-me {
+    max-width: 1140px;
+    margin-top: 100px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+.about-titel {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 48px;
+    margin-bottom: 30px;
+    color: #181818;
+}
+
+.about-content p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+    color: #757575;
+}
+
+.about-info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #757575;
+}
+.about-info h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #474747;
 }
