@@ -225,4 +225,59 @@ main {
     line-height: 28px;
     color: #757575;
 }
+
 /* resume-section */
+.resume-add {
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.resume-title {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    text-align: center;
+    color: #181818;
+}
+
+.resume-info {
+    margin-top: 100px;
+    display: flex;
+}
+
+.resume-info .title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.enter-educ h2 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: #474747;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+
+.enter-educ h5 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.enter-educ p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    padding-bottom: 30px;
+}
+.experience-lavel{
+    margin-left: 30px;
+}
