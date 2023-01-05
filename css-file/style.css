@@ -278,6 +278,62 @@ main {
     color: #757575;
     padding-bottom: 30px;
 }
-.experience-lavel{
+
+.experience-lavel {
     margin-left: 30px;
+}
+
+.download-button {
+    text-align: center;
+}
+
+.download-button a {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/* fotter-section */
+.fotter-area {
+    background: #FFF8F3;
+    padding: 120px 210px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.form-heading,
+.foter-heading {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    color: #181818;
+    margin-bottom: 28px;
+}
+
+.fotter-contract p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #474747;
+    max-width: 570px;
+}
+.icon{
+    margin-top: 30px;
+}
+.icon a{
+    margin-right: 24px;
+    color: #FD6E0A;
+}
+.fotter-area .from input,
+textarea {
+    display: block;
+    border: none;
+    padding: 18px 30px;
+    margin-bottom: 25px;
+    width: 400px;
+    text-transform: capitalize;
+}
+
+#some {
+    width: auto;
 }
